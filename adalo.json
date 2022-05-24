@@ -1,0 +1,30 @@
+{
+  "displayName": "binghanaComponent",
+  "components": [
+    {
+      
+      "name": "KeyboardType",
+      "manifest": "./src/components/KeyboardType/manifest.json"
+    }
+  ],
+  "author": "olive",
+  "description": "champpersonnalisé",
+  "logo": "./example-logo.png"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
